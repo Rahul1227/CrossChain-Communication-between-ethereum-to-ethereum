@@ -12,9 +12,9 @@
     "bl": "^4.0.3",
     "ethereumjs-tx": "^2.1.2",
     "merkle-patricia-tree": "^4.0.0",
-    "rlp": "^2.2.6"
+    "rlp": "^2.2.6",
+    "solc": "^0.8.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
